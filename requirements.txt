@@ -1,0 +1,4 @@
+pytube
+tkinter
+requests
+pillow
